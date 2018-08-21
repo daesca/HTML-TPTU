@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE install PUBLIC "-//Joomla! 3.0//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+
+<extension version="3.0" type="template" client="site">
+
+    <name>Teatro Pablo Tobon Uribe</name>
+
+    <creationDate>2018/08/20</creationDate>
+
+    <author>Daniel Cárcamo</author>
+
+    <authorEmail>reickchozo@gmail.com</authorEmail>
+
+    <authorUrl>http://www.escarabajoweb.com</authorUrl>
+
+    <copyright>Copyright (c) 2017 Escarabajoweb</copyright>
+
+    <license>GPL</license>
+
+    <version>1.0.0</version>
+
+    <description>Plantilla para el sitio del Teatro Pablo Tobón Uribe</description>
+
+    <files>
+
+        <filename>index.php</filename>
+
+        <filename>templateDetails.xml</filename>
+
+        <folder>css</folder>
+
+        <folder>fonts</folder>
+
+        <folder>img</folder>
+
+        <folder>js</folder>
+
+    </files>
+
+    <positions>
+       <position>menu</position>
+       <position>banner</position>
+       <position>calendar</position>
+       <position>share</position>
+       <position>footer</position>
+    </positions>
+
+</extension>

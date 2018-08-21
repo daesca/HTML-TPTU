@@ -1,0 +1,37 @@
+.d-news-body{
+
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 1em;
+
+}
+
+.description-news-container h2{
+
+	color: #330000;
+    text-align:  center;
+    margin: 2em 0;
+
+}
+
+.description-news-container p{
+
+	margin-bottom: 1em;
+
+}
+
+.d-news-footer{
+
+	color: #330000;
+    margin: 1.5em 0;
+
+}
+
+.d-news-footer a{
+
+    border: 1px solid #330000;
+    border-radius: 5px;
+    margin-right: .2em;
+    padding: .3em 1em;
+
+}

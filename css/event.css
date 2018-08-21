@@ -1,0 +1,105 @@
+.event{
+	margin-bottom: 1em;
+	padding-right: 15px;
+}
+
+.image{
+	position: relative;
+	height: 300px;
+}
+
+.image img{
+	height: 100%;
+}
+
+.event-price{
+
+    background-color: rgba(255, 0, 0, 0.4);
+    bottom: 0;
+    color: #fff;
+    display: flex;
+    font-weight: bold;
+    padding: .5em;
+    position: absolute;
+    width: 100%;
+}
+
+.price-description, .buy-ticket{
+    display: flex;
+    width: 50%;
+}
+.price-description{
+	align-items: baseline;
+	justify-content: center;
+}
+
+.buy-ticket{
+	
+	justify-content: center;
+
+}
+
+.ticket{
+
+	font-size: .8rem;
+	padding-right: .2em;
+
+}
+
+.price{
+	font-size: 1.3rem;
+}
+
+.buy-button{
+    border-radius: 5px;
+    border: 1px solid white;
+    font-size: .6rem;
+    padding: .4em .6em;
+    text-transform: uppercase;
+}
+
+.event-description{
+	background-color: #000;
+	color: #fff;
+	display: flex;
+	padding: .5em 0;
+}
+
+.event-day{
+	width: 20%;
+}
+
+.calendar{
+    border-radius: 10px;
+    border: 2px solid #fff;
+    color: #FBF1C3;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+}
+
+.month{
+
+	text-transform: uppercase;
+	font-size: .8rem;
+}
+
+.day{
+
+	font-size: 1.3rem;
+}
+
+.event-text{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+	width: 80%;
+}
+
+.event-text h3{
+	color: #FBF1C3;
+	font-size: .6rem;
+	text-transform: uppercase;
+}

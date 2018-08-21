@@ -1,0 +1,26 @@
+.nav-theater{
+
+	background-color: #330000;
+	padding: 1em 0;
+
+}
+
+.nav-theater ul{
+
+	list-style: none;
+	display: flex;
+	justify-content: space-evenly;
+
+}
+
+.nav-theater ul li{
+
+	color: #FCF1C3;
+
+}
+
+.nav-theater ul li a:hover{
+
+	color: #C03738;
+
+}
